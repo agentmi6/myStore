@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\V\MyStore\MyStore.Domain\bin\Debug\MyStore.Domain.dll
+C:\Users\student\Desktop\V\MyStore\MyStore.Domain\bin\Debug\MyStore.Domain.pdb
+C:\Users\student\Desktop\V\MyStore\MyStore.Domain\obj\Debug\MyStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\V\MyStore\MyStore.Domain\obj\Debug\MyStore.Domain.dll
+C:\Users\student\Desktop\V\MyStore\MyStore.Domain\obj\Debug\MyStore.Domain.pdb

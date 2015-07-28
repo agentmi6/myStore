@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\V\MyStore\MyStore.Infrastructure.DataMSQL\bin\Debug\MyStore.Infrastructure.DataMSQL.dll
+C:\Users\student\Desktop\V\MyStore\MyStore.Infrastructure.DataMSQL\bin\Debug\MyStore.Infrastructure.DataMSQL.pdb
+C:\Users\student\Desktop\V\MyStore\MyStore.Infrastructure.DataMSQL\bin\Debug\MyStore.Domain.dll
+C:\Users\student\Desktop\V\MyStore\MyStore.Infrastructure.DataMSQL\bin\Debug\MyStore.Domain.pdb
+C:\Users\student\Desktop\V\MyStore\MyStore.Infrastructure.DataMSQL\obj\Debug\MyStore.Infrastructure.DataMSSQL.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\V\MyStore\MyStore.Infrastructure.DataMSQL\obj\Debug\MyStore.Infrastructure.DataMSQL.dll
+C:\Users\student\Desktop\V\MyStore\MyStore.Infrastructure.DataMSQL\obj\Debug\MyStore.Infrastructure.DataMSQL.pdb

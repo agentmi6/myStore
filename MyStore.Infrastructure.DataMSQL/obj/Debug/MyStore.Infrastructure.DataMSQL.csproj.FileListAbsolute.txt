@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\V\MyStore\MyStore.Infrastructure.DataMSQL\bin\Debug\MyStore.Infrastructure.DataMSQL.dll
+C:\Users\student\Desktop\V\MyStore\MyStore.Infrastructure.DataMSQL\bin\Debug\MyStore.Infrastructure.DataMSQL.pdb
+C:\Users\student\Desktop\V\MyStore\MyStore.Infrastructure.DataMSQL\bin\Debug\MyStore.Domain.dll
+C:\Users\student\Desktop\V\MyStore\MyStore.Infrastructure.DataMSQL\bin\Debug\MyStore.Domain.pdb
+C:\Users\student\Desktop\V\MyStore\MyStore.Infrastructure.DataMSQL\obj\Debug\MyStore.Infrastructure.DataMSQL.dll
+C:\Users\student\Desktop\V\MyStore\MyStore.Infrastructure.DataMSQL\obj\Debug\MyStore.Infrastructure.DataMSQL.pdb
+C:\Users\student\Desktop\V\MyStore\MyStore.Infrastructure.DataMSQL\bin\Debug\MyStore.Infrastructure.DataMSQL.dll.config
+C:\Users\student\Desktop\V\MyStore\MyStore.Infrastructure.DataMSQL\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\V\MyStore\MyStore.Infrastructure.DataMSQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\V\MyStore\MyStore.Infrastructure.DataMSQL\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\V\MyStore\MyStore.Infrastructure.DataMSQL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\V\MyStore\MyStore.Infrastructure.DataMSQL\obj\Debug\MyStore.Infrastructure.DataMSQL.csprojResolveAssemblyReference.cache
